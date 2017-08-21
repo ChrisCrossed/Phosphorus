@@ -33,33 +33,6 @@ Platform assembly: D:\GIT_FILES\Phosphorus\Current Alpha Prototype\0_1_Data\Mana
 Loading D:\GIT_FILES\Phosphorus\Current Alpha Prototype\0_1_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
 Platform assembly: D:\GIT_FILES\Phosphorus\Current Alpha Prototype\0_1_Data\Managed\System.dll (this message is harmless)
 Platform assembly: D:\GIT_FILES\Phosphorus\Current Alpha Prototype\0_1_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.288 seconds
+- Completed reload, in  0.301 seconds
 <RI> Initializing input.
 <RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 1.407304 ms
-NullReferenceException: Object reference not set to an instance of an object
-  at C_GoalLogic.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at C_GoalLogic.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at C_GoalLogic.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at C_GoalLogic.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Setting up 4 worker threads for Enlighten.
-  Thread -> id: 2518 -> priority: 1 
-  Thread -> id: 9518 -> priority: 1 
-  Thread -> id: 94c8 -> priority: 1 
-  Thread -> id: 951c -> priority: 1 
