@@ -33,6 +33,6 @@ Platform assembly: D:\GIT_FILES\Phosphorus\Current Alpha Prototype\0_1_Data\Mana
 Loading D:\GIT_FILES\Phosphorus\Current Alpha Prototype\0_1_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
 Platform assembly: D:\GIT_FILES\Phosphorus\Current Alpha Prototype\0_1_Data\Managed\System.dll (this message is harmless)
 Platform assembly: D:\GIT_FILES\Phosphorus\Current Alpha Prototype\0_1_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.301 seconds
+- Completed reload, in  0.236 seconds
 <RI> Initializing input.
 <RI> Input initialized.
